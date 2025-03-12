@@ -1,0 +1,65 @@
+[
+  {
+    "ContainingType": "transacciones_api.Controllers.TransaccionController",
+    "Method": "GetAll",
+    "RelativePath": "api/transaccion",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "transacciones_api.Controllers.TransaccionController",
+    "Method": "Create",
+    "RelativePath": "api/transaccion",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "transacciones_api.DTOs.TransaccionDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "transacciones_api.Controllers.TransaccionController",
+    "Method": "Update",
+    "RelativePath": "api/transaccion/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "dto",
+        "Type": "transacciones_api.DTOs.TransaccionDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "transacciones_api.Controllers.TransaccionController",
+    "Method": "Delete",
+    "RelativePath": "api/transaccion/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

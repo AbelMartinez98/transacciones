@@ -1,0 +1,89 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Martinez\\Desktop\\Martinez\\Proyectos\\transacciones\\transacciones-api\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B0391D92-216F-4BD9-A2CE-605A43908C1F}|transacciones-api\\transacciones_api.csproj|c:\\users\\martinez\\desktop\\martinez\\proyectos\\transacciones\\transacciones-api\\transacciones-api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B0391D92-216F-4BD9-A2CE-605A43908C1F}|transacciones-api\\transacciones_api.csproj|solutionrelative:transacciones-api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0391D92-216F-4BD9-A2CE-605A43908C1F}|transacciones-api\\transacciones_api.csproj|c:\\users\\martinez\\desktop\\martinez\\proyectos\\transacciones\\transacciones-api\\transacciones-api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0391D92-216F-4BD9-A2CE-605A43908C1F}|transacciones-api\\transacciones_api.csproj|solutionrelative:transacciones-api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0391D92-216F-4BD9-A2CE-605A43908C1F}|transacciones-api\\transacciones_api.csproj|c:\\users\\martinez\\desktop\\martinez\\proyectos\\transacciones\\transacciones-api\\transacciones-api\\controllers\\transaccioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0391D92-216F-4BD9-A2CE-605A43908C1F}|transacciones-api\\transacciones_api.csproj|solutionrelative:transacciones-api\\controllers\\transaccioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 69,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\Martinez\\Desktop\\Martinez\\Proyectos\\transacciones\\transacciones-api\\transacciones-api\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "transacciones-api\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\Martinez\\Desktop\\Martinez\\Proyectos\\transacciones\\transacciones-api\\transacciones-api\\appsettings.Development.json",
+              "RelativeToolTip": "transacciones-api\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-12T14:40:45.098Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TransaccionController.cs",
+              "DocumentMoniker": "C:\\Users\\Martinez\\Desktop\\Martinez\\Proyectos\\transacciones\\transacciones-api\\transacciones-api\\Controllers\\TransaccionController.cs",
+              "RelativeDocumentMoniker": "transacciones-api\\Controllers\\TransaccionController.cs",
+              "ToolTip": "C:\\Users\\Martinez\\Desktop\\Martinez\\Proyectos\\transacciones\\transacciones-api\\transacciones-api\\Controllers\\TransaccionController.cs",
+              "RelativeToolTip": "transacciones-api\\Controllers\\TransaccionController.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAiwCQAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T12:50:30.448Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Martinez\\Desktop\\Martinez\\Proyectos\\transacciones\\transacciones-api\\transacciones-api\\Program.cs",
+              "RelativeDocumentMoniker": "transacciones-api\\Program.cs",
+              "ToolTip": "C:\\Users\\Martinez\\Desktop\\Martinez\\Proyectos\\transacciones\\transacciones-api\\transacciones-api\\Program.cs",
+              "RelativeToolTip": "transacciones-api\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T04:48:33.363Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 110,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
